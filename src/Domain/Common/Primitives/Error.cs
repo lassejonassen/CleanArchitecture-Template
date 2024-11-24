@@ -1,4 +1,4 @@
-﻿namespace Abstractions;
+﻿namespace Domain.Primitives;
 
 public class Error
 {
